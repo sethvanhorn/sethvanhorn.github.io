@@ -6,5 +6,12 @@ ul {
     background-color: grey;
     height: 100%; 
     position: fixed;
-    overflow: auto; 
+}
+
+body {
+    background-color: mintcream
+}
+
+.box{
+    background-color: lightblue;
 }
